@@ -26,7 +26,7 @@ const Home = () => {
               fontSize={{ base: "9rem", md: "3rem" }}
               color={"#135D66"}
             >
-              The simplest way to Track bugs.
+              Track, Squash, Repeat: Bug Management Made Simple
             </Heading>
             {auth ? (
               <>
